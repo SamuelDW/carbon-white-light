@@ -1,0 +1,18 @@
+{
+  "name": "@kpopfan4life/carbon-white-light",
+  "version": "1.0.0",
+  "description": "Small CSS package for carbon white theme using media query.",
+  "main": "index.scss",
+  "bugs": "https://github.com/SamuelDW/carbon-white-light/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SamuelDW/carbon-white-light"
+  },
+  "keywords": [
+    "carbon-white",
+    "light-mode",
+    "scss"
+  ],
+  "author": "Samuel Durrant-Walker",
+  "license": "ISC"
+}
